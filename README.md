@@ -3,6 +3,7 @@
   <a href="https://www.buymeacoffee.com/unknownthedev" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="25">
     </a>
+</a >
 - 🔭 I'm developing a discord bot that can get rid of all discord scams.
 - ⚡ I love playing with linux and any open source software in general.
 - 💬 Feel free to DM me @ `unknown.#4103`
