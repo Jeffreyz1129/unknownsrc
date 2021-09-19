@@ -6,6 +6,6 @@
 <br/>
 - 🔭 I'm developing a discord bot that can get rid of all discord scams. <br/>
 - ⚡ I love playing with linux and any open source software in general. <br/>
-- 💬 Feel free to DM me @ `unknown.#4103` <br/>
+- 💬 Feel free to DM me @ unknown.#4103 <br/>
     
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unknownfromdiscord&show_icons=true&theme=dark)
