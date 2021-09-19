@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @unknownfromdiscord
-- 👀 I’m interested in Python and stuff...
-- 🌱 I’m currently learning Python
-
-- I'll add some stuff later idk
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
