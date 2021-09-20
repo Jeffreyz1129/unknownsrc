@@ -1,4 +1,3 @@
-<h1 align="center">Hello! 👋</h1>
 
 <p  align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark) 
