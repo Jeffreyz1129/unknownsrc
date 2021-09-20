@@ -8,4 +8,4 @@
 - ⚡ I love playing with linux and any open source software in general. <br/>
 - 💬 Feel free to DM me @ unknown.#4103 <br/>
     
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unknownfromdiscord&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=unknownthedev&show_icons=true&theme=dark)
