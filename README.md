@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknownthedev&label=Profile%20views&color=0e75b6&style=flat" alt="unknownthedev" /> </p>
 
-<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark" alt="unknownthedev" /></p>
+<p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark" alt="unknownthedev" /></p>
 
 <p align="left"> <a href="https://twitter.com/unknownthedev" target="blank"><img src="https://img.shields.io/twitter/follow/unknownthedev?logo=twitter&style=for-the-badge" alt="unknownthedev" /></a> </p>
 
