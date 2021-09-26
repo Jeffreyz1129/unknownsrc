@@ -1,7 +1,5 @@
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark" alt="unknownthedev" /></p>
 
-<p align="left"> <a href="https://twitter.com/unknownthedev" target="blank"><img src="https://img.shields.io/twitter/follow/unknownthedev?logo=twitter&style=for-the-badge" alt="unknownthedev" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/unknownthedev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="unknownthedev" height="30" width="40" /></a>
