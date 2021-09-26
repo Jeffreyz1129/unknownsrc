@@ -1,6 +1,4 @@
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark) </br>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=unknownthedev&theme=github_dark) </br>
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=unknownthedev&theme=github_dark) </br>
+
   
 <h1 align="center">Hi 👋, I'm unknown</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
@@ -37,11 +35,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/unknownthedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="unknownthedev" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unknownthedev&show_icons=true&locale=en&layout=compact" alt="unknownthedev" /></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark) </br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unknownthedev&show_icons=true&locale=en" alt="unknownthedev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unknownthedev&" alt="unknownthedev" /></p>
 
 
 
