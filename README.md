@@ -1,24 +1,6 @@
-
-  
-<h1 align="center">Hi 👋, I'm unknown</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=unknownthedev&label=Profile%20views&color=0e75b6&style=flat" alt="unknownthedev" /> </p>
-
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark" alt="unknownthedev" /></p>
 
 <p align="left"> <a href="https://twitter.com/unknownthedev" target="blank"><img src="https://img.shields.io/twitter/follow/unknownthedev?logo=twitter&style=for-the-badge" alt="unknownthedev" /></a> </p>
-
-- 🔭 I’m currently working on [The WZRD](https://github.com/unknownthedev/thewzrd)
-
-- 🌱 I’m currently learning **about Databases**
-
-- 👨‍💻 All of my projects are available at [https://github.com/unknownthedev](https://github.com/unknownthedev)
-
-- 💬 Ask me about **anything Python**
-
-- 📫 How to reach me **thewzrdinc@pm.me**
-
-- ⚡ Fun fact **I never finish any project...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
