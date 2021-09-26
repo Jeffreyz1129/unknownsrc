@@ -34,7 +34,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/unknownthedev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="unknownthedev" /></a></p><br><br>
 
-<p align="left">  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark) </p>
+<p align="center"> ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark) </p>
 
 
 
