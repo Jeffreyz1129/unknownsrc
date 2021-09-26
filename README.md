@@ -1,11 +1,10 @@
 
   
 <h1 align="center">Hi 👋, I'm unknown</h1>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unknownthedev&label=Profile%20views&color=0e75b6&style=flat" alt="unknownthedev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unknownthedev" alt="unknownthedev" /></a> </p>
+<p align="left"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark" alt="unknownthedev" /></p>
 
 <p align="left"> <a href="https://twitter.com/unknownthedev" target="blank"><img src="https://img.shields.io/twitter/follow/unknownthedev?logo=twitter&style=for-the-badge" alt="unknownthedev" /></a> </p>
 
