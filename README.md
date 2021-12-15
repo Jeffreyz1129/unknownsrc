@@ -1,12 +1,8 @@
+<p align='center'><a href="https://github.com/unknownsrc">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=unknownsrc&theme=dark&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=unknownsrc&theme=black-ice" />
+</a></p>
 
-
-
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=unknownthedev&theme=github_dark" />
-    <br />
-    <img height="50px" width="auto" src="https://i.imgur.com/Q1pJK3K.png" />
-</p>
-
+[![](https://activity-graph.herokuapp.com/graph?username=unknownsrc&theme=react-dark)](https://github.com/unknownsrc)
 
 
