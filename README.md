@@ -4,4 +4,3 @@
 </a></p>
 
 [![](https://activity-graph.herokuapp.com/graph?username=unknownsrc&theme=react-dark)](https://github.com/unknownsrc)
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=unknown&layout=compact)](https://wakatime.com/unknown)
